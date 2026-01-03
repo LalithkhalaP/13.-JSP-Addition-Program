@@ -9,6 +9,7 @@ Single JSP file
 HTML form for number1, number2
 Java scriptlet to calculate sum
 Output displayed on the same page
+connect jar and server to run it..
 
 
 
